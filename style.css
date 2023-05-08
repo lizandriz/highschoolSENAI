@@ -1,0 +1,83 @@
+    body{
+    margin: 0;
+    font-family: 'Fredoka', sans-serif;
+    background-image: linear-gradient( to bottom, #ffffff,#0668c4) ;
+    background-attachment: fixed;
+    }
+    
+    .secao-topo{
+        border-bottom: 1px solid #d5d5d5;
+    }
+    
+    .secao-largura-limitada{
+        width: 1000px;
+        margin: 0 auto;
+    }
+    
+    h1,h2,h3{
+    margin: 0;
+    }
+    
+    .secao-topo p{
+        padding: 20px;
+        font-size: 40px;
+        font-weight: bold;
+    }
+    
+    .secao-background-capa{
+        min-height: 500px;
+        background-image: url("https://images.unsplash.com/photo-1560439450-57df7ac6dbef?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80");
+        background-size: cover;
+        background-attachment: fixed;
+    }
+
+
+    
+    .secao-background-conteudo{
+        text-align: right;
+        padding: 50px 20px;
+    }
+    
+    .secao-conteudo{
+        padding: 50px 20px;
+    }
+    
+    .img-conteudo{
+        width: 320px;
+        height: 200px;
+        border-radius: 10px;
+    }
+    
+    .secao-conteudo span{
+        border-left: 1px solid;
+        padding-left: 10px;
+        font-size: 20px;
+    }
+    
+    .secao-background-divisao{
+        padding: 50px 0;
+        text-align: center;
+        background-image: url(https://images.unsplash.com/photo-1599043464895-0e273f94eed7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80);
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-attachment: fixed;
+    }
+    
+    .secao-background-divisao h3{
+        font-size: 26px;
+        background-color: white;
+        width: 200px;
+        margin: 0 auto;
+        border-radius: 20px;
+    }
+    .secao-largura-limitada p{
+        font-size: 27px;
+    }
+    .secao-largura-limitada h3{
+        font-size: 30px;
+    }
+
+    .secao-largura-limitada a{
+        text-decoration: none;
+        color:black
+    }
